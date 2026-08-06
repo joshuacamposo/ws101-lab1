@@ -1,0 +1,20 @@
+### Task 3: Explore `tsconfig.json`
+
+Open `tsconfig.json` and `tsconfig.app.json`. Answer the following:
+
+1. What is the `target` set to? What does it mean?
+    asnwer : "es2023", Compile TypeScript into JavaScript that is compatible with ECMAScript 2023
+
+2. What does `strict: true` enable?
+    asnwer : "strict": true turns on TypeScript's strict type-checking mode.
+
+3. What is the `jsx` option set to?
+    asnwer : react-jsx tells TypeScript to transform JSX using React's automatic JSX runtime
+
+4. Where does the compiler look for source files (`include`)?
+    asnwer : tsconfig.app.json
+
+Reflection : 
+    This laboratory helped me become more familiar with TypeScript and showed me how it can make coding easier by catching errors before running the program.
+     I also learned how to organize a project using Vite, create typed functions and objects, and upload my finished work to GitHub. 
+     Overall, the activities gave me more confidence in using TypeScript for future web development projects.
